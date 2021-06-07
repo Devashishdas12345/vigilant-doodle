@@ -1,0 +1,32 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 18px lightgreen;
+}
+.heading_div {
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px lightskyblue;
+}
+.footer {
+    position: fixed;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    background: rgb(95, 95, 95);
+    font-family: 'Fruktur', cursive;
+    bottom: 0;
+    margin: 0px;
+    line-height: 2;
+    width: 100%;
+}
+
+canvas {
+    border: 5px white;
+    border-radius: 20px;
+    margin-top: 310px;
+    box-shadow: 5px , 5px , 5px grey;
+}
